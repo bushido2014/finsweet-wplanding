@@ -66,12 +66,7 @@ wp_reset_postdata();
 ?>
 </nav>	 
 	 
-
-	
-
-	
-</div>
-		
+ </div>		
 </div>
 
 </section>
